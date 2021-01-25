@@ -1,0 +1,20 @@
+{
+  "name": "nilesh-node-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delongesT/nilesh-node-lessons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delongesT/nilesh-node-lessons/issues"
+  },
+  "homepage": "https://github.com/delongesT/nilesh-node-lessons#readme"
+}
